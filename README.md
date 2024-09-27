@@ -26,6 +26,8 @@ DB Box is a Flutter-powered TODO app that allows users to create, edit, and dele
 
 Check out a quick walkthrough of the app's features: DB Box Demo
 
+<div align="center"> <video src="https://github.com/user-attachments/assets/8ec11ecc-a61a-4749-ae15-3884382b0ccd" width="300" controls></video> <p>DB Box Demo Video</p> </div>
+
 🛠️ Technologies Used
 
 💙 Flutter for front-end UI.
